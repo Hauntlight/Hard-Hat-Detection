@@ -1,0 +1,6 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+construction.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/PC199/Desktop/Hard[[:space:]]Hat[[:space:]]detection/Hard-Hat-Detection/Hard_Hat_Detection_Drive/detection/exp2/construction.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/PC199/Desktop/Hard[[:space:]]Hat[[:space:]]detection/Hard-Hat-Detection/Hard_Hat_Detection_Drive/detection/exp/Safety_Full_Hat_and_Vest.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/PC199/Desktop/Hard[[:space:]]Hat[[:space:]]detection/Hard-Hat-Detection/Hard_Hat_Detection_Drive/videos/construction.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/PC199/Desktop/Hard[[:space:]]Hat[[:space:]]detection/Hard-Hat-Detection/Hard_Hat_Detection_Drive/videos/Safety_Full_Hat_and_Vest.mp4 filter=lfs diff=lfs merge=lfs -text
