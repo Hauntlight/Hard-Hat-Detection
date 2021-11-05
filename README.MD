@@ -1,5 +1,5 @@
 
-# Traffic Light And Signal Detection
+# Hard-hat Detection
 In this project, we present a supervised method of **detecting hard-hat** completely based on deep Convolutional Neural Networks (CNNs). We will use [YOLOv5](https://github.com/ultralytics/yolov5) (You Only Look Once) which uses [PyTorch](https://pytorch.org/), an open source neural network framework. Instead, to write and execute Python code we used **Google Colaboratory**, a free environment that runs entirely in the cloud and provides a GPU.
 
 ## How to train and how to improve object detection
