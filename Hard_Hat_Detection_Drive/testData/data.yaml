@@ -1,0 +1,4 @@
+val: testData/test/images
+
+nc: 2
+names: ['head', 'helmet']
